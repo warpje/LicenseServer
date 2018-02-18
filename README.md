@@ -1,4 +1,3 @@
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/ImVexed/NotALicensingPlatform)](https://ci.appveyor.com/project/ImVexed/NotALicensingPlatform)
 # Not a Licensing Platform (spoiler alert: it actually is)
 
 ## Features
