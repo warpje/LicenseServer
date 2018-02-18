@@ -1,0 +1,10 @@
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\Debug\NaLP - Login.exe.config
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\Debug\NaLP - Login.exe
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\Debug\NaLP - Login.pdb
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NaLP - Login\obj\Debug\NaLP - Login.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NaLP - Login\obj\Debug\NaLP___Login.frmMain.resources
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NaLP - Login\obj\Debug\NaLP___Login.Properties.Resources.resources
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NaLP - Login\obj\Debug\NaLP - Login.csproj.GenerateResource.Cache
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NaLP - Login\obj\Debug\NaLP - Login.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NaLP - Login\obj\Debug\NaLP - Login.exe
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NaLP - Login\obj\Debug\NaLP - Login.pdb

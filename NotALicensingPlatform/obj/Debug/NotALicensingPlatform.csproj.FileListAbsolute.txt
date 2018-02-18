@@ -1,0 +1,7 @@
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\Debug\NotALicensingPlatform.exe.config
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\Debug\NotALicensingPlatform.exe
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\Debug\NotALicensingPlatform.pdb
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NotALicensingPlatform\obj\Debug\NotALicensingPlatform.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NotALicensingPlatform\obj\Debug\NotALicensingPlatform.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NotALicensingPlatform\obj\Debug\NotALicensingPlatform.exe
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NotALicensingPlatform\obj\Debug\NotALicensingPlatform.pdb

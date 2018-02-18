@@ -1,0 +1,8 @@
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\Debug\NaLP - Server.exe.config
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\Debug\NaLP - Server.exe
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\Debug\NaLP - Server.pdb
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NaLP - Server\obj\Debug\NaLP___Server.frmMain.resources
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NaLP - Server\obj\Debug\NaLP - Server.csproj.GenerateResource.Cache
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NaLP - Server\obj\Debug\NaLP - Server.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NaLP - Server\obj\Debug\NaLP - Server.exe
+C:\Users\Johnny\Downloads\NotALicensingPlatform-master\NotALicensingPlatform-master\NaLP - Server\obj\Debug\NaLP - Server.pdb
