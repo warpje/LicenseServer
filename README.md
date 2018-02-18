@@ -1,6 +1,5 @@
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/ImVexed/NotALicensingPlatform)](https://ci.appveyor.com/project/ImVexed/NotALicensingPlatform)
 # Not a Licensing Platform (spoiler alert: it actually is)
-Just a liteweight licensing system using [NotLiteCode](https://github.com/Icemantheditor/NotLiteCode)
 
 ## Features
  * All perks of NLC, automatic Encryption, Handshakes, Compression
