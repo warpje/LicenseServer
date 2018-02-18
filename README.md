@@ -1,0 +1,2 @@
+# LicenseServer
+Just the Basic
